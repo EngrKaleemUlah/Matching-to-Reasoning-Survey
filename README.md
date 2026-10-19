@@ -1,4 +1,4 @@
-# From Matching toward Reasoning: A Critical Survey of Text-to-Video Retrieval
+# From Matching toward Reasoning
 
 | Convention           | Details                                                                                                                                                  |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -519,3 +519,22 @@
 | 16             | Applications and Deployment Requirements                        | Table 15, p. 41                                                  |
 | 17             | Challenges, Evaluation Evidence, and Future Research Directions | Table 16, pp. 42–43                                              |
 | 18             | Study Selection: Inclusion and Exclusion Criteria               | Table 1, p. 5                                                    |
+
+
+## Data Availability
+
+All data will be made available upon successful publication of the paper.
+
+## Contributors
+
+- **Kaleem Ullah**  
+  Researcher, Center for Artificial Intelligence, Daeyang Building, Sejong University  
+  Email: [kaleemullah@sju.ac.kr](mailto:kaleemullah@sju.ac.kr)
+
+- **Safi Ullah**  
+  Researcher, Center for Artificial Intelligence, Daeyang Building, Sejong University  
+  Email: [safiullah@sju.ac.kr](mailto:safiullah@sju.ac.kr)
+
+- **Aizaz Ali Shah**  
+  Researcher, Center for Artificial Intelligence, Daeyang Building, Sejong University  
+  Email: [aizazalishah@sju.ac.kr](mailto:aizazalishah@sju.ac.kr)
